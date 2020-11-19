@@ -7,6 +7,7 @@ public class Principal
     {
         System.out.println("Hola mundo java-git");
         System.out.println("Adios java-git");
+        System.out.println("Se añade el paquete cambio1 y la clase Cambio1 dentro de el.");
     }
 
 }
